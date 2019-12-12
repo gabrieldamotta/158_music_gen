@@ -6,9 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-# weights
-checkpoints/*.hdf5
-
 # Distribution / packaging
 .Python
 build/
